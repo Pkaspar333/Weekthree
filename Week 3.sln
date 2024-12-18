@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 3", "Week 3\Week 3.csproj", "{E4FF4445-EDF9-4984-84AA-A8D240142A73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week 3 rema", "week 3 rema\week 3 rema.csproj", "{5C56A1F6-374E-4B70-802C-0CA611DF2DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4FF4445-EDF9-4984-84AA-A8D240142A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4FF4445-EDF9-4984-84AA-A8D240142A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4FF4445-EDF9-4984-84AA-A8D240142A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4FF4445-EDF9-4984-84AA-A8D240142A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C56A1F6-374E-4B70-802C-0CA611DF2DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C56A1F6-374E-4B70-802C-0CA611DF2DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C56A1F6-374E-4B70-802C-0CA611DF2DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C56A1F6-374E-4B70-802C-0CA611DF2DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0C36DB8-B37E-4626-B883-C46E723938DB}
+	EndGlobalSection
+EndGlobal
